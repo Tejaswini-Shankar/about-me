@@ -5,7 +5,6 @@ I love blending logic and creativity to make digital experiences that truly conn
 
 # What I'm Exploring
 - Full Stack Development
-- App Development
 - AI Engineering
 - UI/UX Design
 
